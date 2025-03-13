@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+pretty_midi
+music21
+scikit-learn
+jupyter
